@@ -1,5 +1,7 @@
 body {
-background-image: url("D:\1PracticaHtml\practica1\fondo1.jpg");
+background-image: url(imagen/fondo1.jpg);
 background-size: cover;
 background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed ;
 }
